@@ -12,6 +12,7 @@ from Generator import Generator
 
 __Author__ = 'YuChuanQi'
 __Time__ = '2017-03-31 11:41:00'
+__API__ = 'https://happybase.readthedocs.io/en/latest/user.html#establishing-a-connection'
 
 _HBASE_TABLE = 'log_susuan_biz-log'
 # 数据保留的天数
